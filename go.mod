@@ -1,4 +1,4 @@
-module lagged_fibonacci_generator
+module main.go
 
 go 1.19
 
